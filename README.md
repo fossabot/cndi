@@ -17,6 +17,7 @@
   <a href="https://cndi.run/dl?utm_content=gh_badge_releases&utm_campaign=readme_v1&utm_source=github.com/polyseam/cndi&utm_medium=repo&utm_id=1002">
     <img src="https://img.shields.io/github/v/release/polyseam/cndi.svg?style=flat" alt="GitHub Release">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Feric8%2Fcndi?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Feric8%2Fcndi.svg?type=shield"/></a>
   <a href="https://cndi.run/di?utm_content=gh_badge_discord&utm_campaign=readme_v1&utm_source=github.com/polyseam/cndi&utm_medium=repo&utm_id=1001">
     <img src="https://img.shields.io/discord/956275914596040754.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
   </a>
@@ -528,3 +529,7 @@ If you have any other issues or questions please message
 [Matt](https://github.com/johnstonmatt) or
 [Tamika](https://github.com/IamTamika) in the
 [Polyseam Discord Chat](https://discord.gg/ygt2rpegJ5).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Feric8%2Fcndi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Feric8%2Fcndi?ref=badge_large)
